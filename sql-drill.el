@@ -99,7 +99,7 @@
           options)))
     (sql-comint product params)))
 
-
+;;;###autoload
 (add-to-list 'sql-product-alist
   '(drill
     :name "Apatch Drill"
