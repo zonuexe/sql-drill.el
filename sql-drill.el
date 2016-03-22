@@ -11,7 +11,7 @@
 ;; This file is not part of GNU Emacs.
 ;;
 ;;; Commentary:
-;; This is an apache drill support for sql-mode. You can connect to Apache Drill following below
+;; This is an apache drill support for sql-mode.  You can connect to Apache Drill following below
 ;; 1) set sql-product drill
 ;;    M-x sql-set-product RET drill
 ;; 2) connect to the drill server
